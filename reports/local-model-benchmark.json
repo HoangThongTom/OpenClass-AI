@@ -1,0 +1,24 @@
+[
+  {
+    "model": "qwen2.5:3b",
+    "mode": "fast",
+    "status": "ready",
+    "elapsed_seconds": 35.9,
+    "slides": 4,
+    "quiz": 3,
+    "flashcards": 3,
+    "cited_slides": 4,
+    "error": null
+  },
+  {
+    "model": "qwen3:4b",
+    "mode": "balanced",
+    "status": "ready",
+    "elapsed_seconds": 100.24,
+    "slides": 4,
+    "quiz": 3,
+    "flashcards": 3,
+    "cited_slides": 4,
+    "error": null
+  }
+]

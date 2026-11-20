@@ -1,0 +1,1 @@
+"""OpenClass AI backend application."""
